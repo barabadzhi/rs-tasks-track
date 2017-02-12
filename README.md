@@ -26,12 +26,12 @@ Proof URL: https://www.codecademy.com/users/hiseni/achievements
 
 ---
 
-##### Codewars [WIP]
+##### Codewars
 - [x] Base Conversion
 - [x] Part I
 - [x] Part II
 - [x] Part III
-- [ ] Optional
+- [x] Optional
 
 Task URL (2016-Q4): https://github.com/rolling-scopes-school/tasks/blob/2016-Q4/tasks/codewars.md
 
