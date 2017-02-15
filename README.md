@@ -41,12 +41,14 @@ Proof URL: https://www.codewars.com/users/hiseni/completed
 
 ---
 
-##### Float & Positioning [WIP]
-- [ ] Done
+##### Float & Positioning
+- [x] Done
 
 Task URL: https://github.com/rolling-scopes-school/tasks/blob/2017-Q1/tasks/positionin_and_floats.md
 
-Proof URL:
+Proof URL (Repo): https://github.com/hiseni/rs-paf
+
+Proof URL (Build): https://hiseni.github.io/rs-paf
 
 ---
 
