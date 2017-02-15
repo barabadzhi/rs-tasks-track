@@ -38,3 +38,21 @@ Task URL (2016-Q4): https://github.com/rolling-scopes-school/tasks/blob/2016-Q4/
 Task URL (2017-Q1): https://github.com/rolling-scopes-school/tasks/blob/2017-Q1/tasks/codewars.md
 
 Proof URL: https://www.codewars.com/users/hiseni/completed
+
+---
+
+##### Float & Positioning [WIP]
+- [ ] Done
+
+Task URL: https://github.com/rolling-scopes-school/tasks/blob/2017-Q1/tasks/positionin_and_floats.md
+
+Proof URL:
+
+---
+
+##### FRP Presentation
+- [ ] Done
+
+Task URL: https://github.com/rolling-scopes-school/tasks/blob/2017-Q1/tasks/presentation.md
+
+Proof URL:
