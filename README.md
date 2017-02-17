@@ -58,3 +58,13 @@ Proof URL (Build): https://hiseni.github.io/rs-paf
 Task URL: https://github.com/rolling-scopes-school/tasks/blob/2017-Q1/tasks/presentation.md
 
 Proof URL:
+
+---
+
+##### Additional tasks
+- [x] additional_1
+- [x] additional_2
+
+Task URL: https://github.com/hiseni/additional_1
+
+Task URL: https://github.com/hiseni/additional_2
