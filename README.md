@@ -68,3 +68,12 @@ Proof URL:
 Task URL: https://github.com/hiseni/additional_1
 
 Task URL: https://github.com/hiseni/additional_2
+
+---
+
+##### Chrome Dev Tools Online Course
+- [x] Done
+
+Task URL: https://www.codeschool.com/courses/discover-devtools
+
+Proof URL: https://www.codeschool.com/users/1518566
