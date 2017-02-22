@@ -64,10 +64,16 @@ Proof URL:
 ##### Additional tasks
 - [x] additional_1
 - [x] additional_2
+- [x] additional_3
+- [x] additional_4
 
 Task URL: https://github.com/hiseni/additional_1
 
 Task URL: https://github.com/hiseni/additional_2
+
+Task URL: https://github.com/hiseni/additional_3
+
+Task URL: https://github.com/hiseni/additional_4
 
 ---
 
